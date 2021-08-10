@@ -1,11 +1,11 @@
 <h1 align = "center"> Hola 👋, soy Helderson Ruiz </h1>
 <h3 align = "center">  Java developer in process  </h3>
 
-- 🌱 Actualmente estoy aprendiendo ** Java **
+- 🌱 Dev 😁 **Java**
 
-- 📫 Cómo comunicarse conmigo **hencho1496@gmail.com**
+- 📫 DM **hencho1496@gmail.com**
 
-- ⚡ Dato curioso **Buscando un poco de identidad**
+- ⚡ **Buscando un poco de identidad**
 
 
 <h3 align = "left"> Idiomas y herramientas: </h3>
