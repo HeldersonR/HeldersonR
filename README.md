@@ -1,15 +1,15 @@
 <h1 align = "center"> Hola 🤓, soy Helderson Ruiz </h1>
 <h3 align = "center">  Java developer in process  </h3>
 
-- 🌱 Dev 😁 **Java**
+- 🌱 Dev ▶️ **Java**
 
-- 📫 DM **hencho1496@gmail.com**
+- 📫 DM ▶️  **hencho1496@gmail.com**
 
-- ⚡ **Buscando un poco de identidad**
+- ⚡  ▶️ **Buscando un poco de identidad**
 
-- 📗 Sena **Desarrollador de Software**
+- 📗 Sena  ▶️ **Desarrollador de Software**
 
-- 💻 Universidad Del Sinú **Ingeniería de Sistemas**
+- 💻 Universidad Del Sinú ▶️  **Ingeniería de Sistemas**
 
 
 <h3 align = "left"> Idiomas y herramientas: </h3>
