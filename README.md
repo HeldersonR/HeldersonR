@@ -1,5 +1,6 @@
 <h1 align = "center"> Hola 🤓, soy Helderson Ruiz </h1>
-<h3 align = "center">  Java developer in process  </h3>
+<h3 align = "center">  Java developer Jr </h3>
+
 
 - 🌱 Dev ▶️ **Java**
 
